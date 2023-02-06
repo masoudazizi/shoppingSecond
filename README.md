@@ -17,5 +17,5 @@
 
 * the query inside the data.sql must be executed in order to have the admin user with username: 'masoud' and password: 'masoud'.
 * database of the project is MySql and its name is shopping
-* the postman collection related to the requests you mentioned in the description of the technical task is at the root of the project with the name Shopping - EGS.postman_collection.json
+* the postman collection related to the requests you mentioned in the description of the technical task is at the root of the project with the name Shopping.postman_collection.json
 * the swagger is presented in http://localhost:8080/swagger-ui/ URL
